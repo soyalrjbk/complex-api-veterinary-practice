@@ -2,7 +2,7 @@
 
 A dog breed lookup app for a veterinary practice. You type in a breed, and it shows a random picture of that breed along with its height and weight ranges for males and females and its life expectancy. It uses two APIs: Dog CEO for the pictures and API Ninjas for the breed info.
 
-**Link to project:** https://vet-api-project.netlify.app
+**Live Demo:** https://vet-api-project.netlify.app
 
 [![Screenshot-2026-09-30-at-3-00-15-AM.png](https://i.postimg.cc/YjcJP3yD/Screenshot-2026-09-30-at-3-00-15-AM.png)](https://postimg.cc/4H5L7zGp)
 
